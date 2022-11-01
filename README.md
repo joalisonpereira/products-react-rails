@@ -1,5 +1,5 @@
 <h1 align="left">
-  <strong>Redux and Redux Saga with Typescript</strong>
+  <strong>Products React Rails</strong>
 </h1>
 
 <p align="left">
